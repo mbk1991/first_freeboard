@@ -8,6 +8,7 @@ eclipse, maven_project<br>
 java1.7<br>
 Dynamic Web Module 2.3<br>
 mysql 8.0.28<br>
+tomcat8.5<br>
 <hr>
 BoardVo.java- 게시글번호, 제목, 내용, 작성자, 작성시간<br>
 BoardDao.java- 게시판메인, 게시글등록, 내용조회 메서드<br>
