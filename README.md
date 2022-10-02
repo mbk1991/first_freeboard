@@ -1,7 +1,7 @@
 <h1># first_freeboard_ver_2022_03_02</h1>
 <hr>
 <h4>
-목표: 서블릿과 jsp를 이용하여 기본적인 CRUD 기능을 수행하는 게시판 만들기<br>
+퇴근 후에 주먹구구로 만들어보았던 서블릿과 JSP를 이용한 게시판입니다.<br>
 </h4>
 
 eclipse, maven_project<br>
